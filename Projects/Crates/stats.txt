@@ -1,0 +1,13 @@
+Triangles: 2k
+
+Materials: 1 Each
+
+Texture Size: 2048*2048
+
+Texel Density: 
+
+Workflow: Low poly
+
+Target Engine: Unity
+
+Collaborators:

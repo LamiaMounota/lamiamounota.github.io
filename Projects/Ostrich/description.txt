@@ -1,0 +1,9 @@
+Ostrich
+---
+Revving up the excitement with a brand-new 3D model – a sleek and futuristic bike inspired by the creative mind of @gatring3 ! This is a Nanite mesh So I didnt go for a High to low poly modeling
+---
+Blender, Substance 3D Painter, Marmoset Toolbag, Photoshop
+---
+https://cdnb.artstation.com/p/assets/covers/images/072/093/411/smaller_square/azman-md-azman-md-ostrich-bike-thumbnail.jpg
+---
+Ostrich.html

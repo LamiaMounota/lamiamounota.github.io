@@ -1,0 +1,12 @@
+Last Survivor - Crates
+---
+A detailed 3D model of the famous semi-automatic handgun. Known for its powerful shot and unique design, this model captures the key features of the .44 Magnum version. I used 'World of Guns' to understand gun mechanisms.
+- single 4k texture set
+- textured in substance painter
+- rendered in marmoset
+---
+Blender, Zbrush, Substance 3D Painter, Marmoset Toolbag, Photoshop
+---
+https://cdnb.artstation.com/p/assets/covers/images/077/077/799/smaller_square/azman-md-azman-md-cratethumbnail.jpg
+---
+Crates.html

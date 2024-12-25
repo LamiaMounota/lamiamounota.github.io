@@ -1,0 +1,13 @@
+Triangles: 45k
+
+Materials: 3
+
+Texture Size: 4096*4096
+
+Texel Density: 
+
+Workflow: Sub-D, Midpoly
+
+Target Engine: Unreal Engine 5
+
+Collaborators:

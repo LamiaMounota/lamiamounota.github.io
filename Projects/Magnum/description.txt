@@ -1,0 +1,12 @@
+Desert Eagle .44 Magnum
+---
+A detailed 3D model of the famous semi-automatic handgun. Known for its powerful shot and unique design, this model captures the key features of the .44 Magnum version. I used 'World of Guns' to understand gun mechanisms.
+- single 4k texture set
+- textured in substance painter
+- rendered in marmoset
+---
+Blender, Zbrush, Substance 3D Painter, Marmoset Toolbag, Photoshop
+---
+https://cdna.artstation.com/p/assets/images/images/079/479/084/20240830062101/smaller_square/azman-md-desert-eagle-edit.jpg
+---
+Magnum.html
