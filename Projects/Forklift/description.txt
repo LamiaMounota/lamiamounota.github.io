@@ -1,6 +1,6 @@
-Desert Eagle .44 Magnum
+Forklift
 ---
-A detailed 3D model of the famous semi-automatic handgun. Known for its powerful shot and unique design, this model captures the key features of the .44 Magnum version. I used 'World of Guns' to understand gun mechanisms.
+A detailed 3D model of Forklift Vehicle. Known for its powerful and unique design.
 - single 4k texture set
 - textured in substance painter
 - rendered in marmoset
@@ -9,4 +9,4 @@ Blender, Zbrush, Substance 3D Painter, Marmoset Toolbag, Photoshop
 ---
 https://previews.dropbox.com/p/thumb/ACezZeUZPCtOXbXW8SYJz7994o3ENwb9-UpBfxrEEfrybR_9dQg5zWO__QgQihKN5JpxPrY21N9SKwlD2odP64YAp96nzP9958Uj5prtggcDk9ps21lEudUttQ9TvoEWfaan8-JTw_zMWmMDl3HpDaAq0wfREVjVg1FV5piC62gpc8Jm2qQzXBIWuCrA9j8r_PTR62f12blOVCBWadkf-vMzguU3IBLwrxJD-rQOMtzk3Q2hX6P_-jTGiZBRdtqUOXmFgtx12vZgw3Mb_zavW9Mdhd3jNmboDAH1QeApKfZjfvM4aL2RZ49BA-Frjf0-oVs/p.png
 ---
-Magnum.html
+Forklift.html
