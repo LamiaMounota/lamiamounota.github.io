@@ -1,0 +1,13 @@
+Triangles: 3k
+
+Materials: 1
+
+Texture Size: 4096*4096
+
+Texel Density: 
+
+Workflow: low
+
+Target Engine: Unity 2023
+
+Collaborators:

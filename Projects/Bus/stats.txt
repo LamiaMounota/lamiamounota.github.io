@@ -1,12 +1,12 @@
-Triangles: 21k & 7k
+Triangles: 3k
 
-Materials: 1 Each
+Materials: 1
 
 Texture Size: 4096*4096
 
 Texel Density: 
 
-Workflow: High to low 
+Workflow: low
 
 Target Engine: Unity 2023
 
