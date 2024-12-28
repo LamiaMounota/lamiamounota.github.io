@@ -1,6 +1,6 @@
-Triangles: 45k
+Triangles: 
 
-Materials: 3
+Materials: 1
 
 Texture Size: 4096*4096
 
