@@ -6,5 +6,5 @@
 Ghost Interactive
 Date (2021-2024)
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTXmEujVUamGsFasKoLjOzafVeXdavrUQ4bA&s
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+I worked in Ghost Interactive for almost 3 years. My roll was to make environments according to Geo locations of Bangladesh and also Making vehicles (Bus, CNG, Truck etc) for the game. 
 ---
